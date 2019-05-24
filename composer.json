@@ -1,7 +1,6 @@
 {
 	"name": "symbiote/silverstripe-sqs-jobqueue",
-	"description": "A module for interacting with AWS's Simple Queue Service (SQS)", 
-	"type": "silverstripe-module",
+	"description": "A module for interacting with AWS's Simple Queue Service (SQS)",
 	"keywords": ["symbiote", "thrive", "silverstripe", "sqs", "aws", "queuedjobs"],
 	"license": "BSD-3-Clause",
 	"authors": [
@@ -21,4 +20,3 @@
 		"aws/aws-sdk-php": "~3.0"
 	}
 }
-
